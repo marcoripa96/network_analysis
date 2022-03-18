@@ -2,6 +2,13 @@
 
 For a description of the project look at [Report.pdf](Report.pdf)
 
+# Group
+
+- Christian Bernasconi 816423
+- Gabriele Ferrario 817518
+- Riccardo Pozzi 807857
+- Marco Ripamonti 806785
+
 ## Installation
 
 ### Install Python3 and R
