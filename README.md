@@ -1,6 +1,6 @@
 # DataAnalyticsProject
 
-For a description of the project look at [Report.pdf](report/Report.pdf)
+For a description of the project look at [Report.pdf](Report.pdf)
 
 ## Installation
 
